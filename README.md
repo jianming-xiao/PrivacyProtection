@@ -1,6 +1,6 @@
 # PrivacyProtection
 
-![Privacy](/home/nadine/github/PrivacyProtection/img/Privacy.png)
+![Privacy](https://github.com/Sec-Nadine/PrivacyProtection/blob/main/img/Privacy.png)
 
 #### Tips:
 
