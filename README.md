@@ -117,6 +117,10 @@
     
 
   
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Sec-Nadine/PrivacyProtection.svg)](https://starchart.cc/Sec-Nadine/PrivacyProtection)
+
 
   
 
